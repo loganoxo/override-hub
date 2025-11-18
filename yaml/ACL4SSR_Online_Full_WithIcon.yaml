@@ -200,7 +200,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netease_Music.png
     type: select
     include-all: true
-    filter: (?i)网易|音乐|NetEase|Music
     proxies:
       - DIRECT
       - 节点选择
